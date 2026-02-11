@@ -66,6 +66,3 @@ The trained models are compared visually using a bar plot of R² scores.
 ### Saved Output Graph:
 
 ![ML Model Comparison](graph.png)
-
-This graph is automatically generated and saved as:
-
